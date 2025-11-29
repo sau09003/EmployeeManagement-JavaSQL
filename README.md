@@ -1,2 +1,0 @@
-# EmployeeManagement-JavaSQL
-This repository contains a complete Employee Management system project using Java and MySQL. It demonstrates CRUD operations (Create, Read, Update, Delete) on an Employees table with real-world data. The project includes SQL scripts for table creation, data insertion, updates, deletions, and advanced queries like sorting, aggregation, and filtering. This project is ideal for learning database management, SQL queries, and integrating Java with MySQL.
